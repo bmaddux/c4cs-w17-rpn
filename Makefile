@@ -1,4 +1,4 @@
 test:
-	python3 -m unitttest
+	python3 -m unittest
 
 .PHONY: test
